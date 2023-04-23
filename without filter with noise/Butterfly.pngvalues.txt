@@ -1,0 +1,339 @@
+
+
+Butterfly.png	noise:0.1
+
+
+Original image ideal values:
+ 
+noise:0.1
+IM1 image entropy:5.609516e-01 
+IM1 image mean:0.131285 
+Ground truth image entropy:0.968631 
+Ground truth image mean:0.396113 
+entropy between imt and im1 :0.896142 
+MSE between imt and im1 :0.360355 
+Average Difference between imt and im1 :0.264828 
+Maximum Difference between imt and im1 :1.000000 
+True Positive values:4216.000000 
+False Positive values: 2411.000000 
+True Negative values:28072.000000
+False Negative values:15779.000000 
+Accuracy value: 0.639645 
+F Measure values:0.316731 
+Peak Signal-to Noise Ration value: 4.432694 
+Signal-to Noise Ration value: -4.796044 
+percentage of pixels that were correctly detected (Pco): 0.210853
+The percentage of pixels that were not detected (Pnd):0.789147 
+the percentage of false alarm: (Pfa):0.120580 
+Euclidean Distance Value :20.118041 
+
+
+
+
+Butterfly.png	noise:10.0
+
+
+Original image ideal values:
+ 
+noise:10.0
+IM1 image entropy:6.803353e-01 
+IM1 image mean:0.180118 
+Ground truth image entropy:0.968631 
+Ground truth image mean:0.396113 
+entropy between imt and im1 :0.874569 
+MSE between imt and im1 :0.373172 
+Average Difference between imt and im1 :0.215995 
+Maximum Difference between imt and im1 :1.000000 
+True Positive values:5125.000000 
+False Positive values: 3967.000000 
+True Negative values:26516.000000
+False Negative values:14870.000000 
+Accuracy value: 0.626828 
+F Measure values:0.352391 
+Peak Signal-to Noise Ration value: 4.280904 
+Signal-to Noise Ration value: -3.422620 
+percentage of pixels that were correctly detected (Pco): 0.256314
+The percentage of pixels that were not detected (Pnd):0.743686 
+the percentage of false alarm: (Pfa):0.198400 
+Euclidean Distance Value :24.657279 
+
+
+
+
+Butterfly.png	noise:20.0
+
+
+Original image ideal values:
+ 
+noise:20.0
+IM1 image entropy:8.785029e-01 
+IM1 image mean:0.297734 
+Ground truth image entropy:0.968631 
+Ground truth image mean:0.396113 
+entropy between imt and im1 :0.837628 
+MSE between imt and im1 :0.436309 
+Average Difference between imt and im1 :0.098379 
+Maximum Difference between imt and im1 :1.000000 
+True Positive values:6500.000000 
+False Positive values: 8529.000000 
+True Negative values:21954.000000
+False Negative values:13495.000000 
+Accuracy value: 0.563691 
+F Measure values:0.371174 
+Peak Signal-to Noise Ration value: 3.602059 
+Signal-to Noise Ration value: -1.239913 
+percentage of pixels that were correctly detected (Pco): 0.325081
+The percentage of pixels that were not detected (Pnd):0.674919 
+the percentage of false alarm: (Pfa):0.426557 
+Euclidean Distance Value :31.530011 
+
+
+
+
+Butterfly.png	noise:30.0
+
+
+Original image ideal values:
+ 
+noise:30.0
+IM1 image entropy:9.167028e-01 
+IM1 image mean:0.331748 
+Ground truth image entropy:0.968631 
+Ground truth image mean:0.396113 
+entropy between imt and im1 :0.829150 
+MSE between imt and im1 :0.458834 
+Average Difference between imt and im1 :0.064365 
+Maximum Difference between imt and im1 :1.000000 
+True Positive values:6790.000000 
+False Positive values: 9956.000000 
+True Negative values:20527.000000
+False Negative values:13205.000000 
+Accuracy value: 0.541166 
+F Measure values:0.369614 
+Peak Signal-to Noise Ration value: 3.383448 
+Signal-to Noise Ration value: -0.770103 
+percentage of pixels that were correctly detected (Pco): 0.339585
+The percentage of pixels that were not detected (Pnd):0.660415 
+the percentage of false alarm: (Pfa):0.497924 
+Euclidean Distance Value :32.980024 
+
+
+
+
+Butterfly.png	noise:40.0
+
+
+Original image ideal values:
+ 
+noise:40.0
+IM1 image entropy:9.259418e-01 
+IM1 image mean:0.341178 
+Ground truth image entropy:0.968631 
+Ground truth image mean:0.396113 
+entropy between imt and im1 :0.825270 
+MSE between imt and im1 :0.463113 
+Average Difference between imt and im1 :0.054935 
+Maximum Difference between imt and im1 :1.000000 
+True Positive values:6920.000000 
+False Positive values: 10302.000000 
+True Negative values:20181.000000
+False Negative values:13075.000000 
+Accuracy value: 0.536887 
+F Measure values:0.371873 
+Peak Signal-to Noise Ration value: 3.343134 
+Signal-to Noise Ration value: -0.648378 
+percentage of pixels that were correctly detected (Pco): 0.346087
+The percentage of pixels that were not detected (Pnd):0.653913 
+the percentage of false alarm: (Pfa):0.515229 
+Euclidean Distance Value :33.629865 
+
+
+
+
+Butterfly.png	noise:50.0
+
+
+Original image ideal values:
+ 
+noise:50.0
+IM1 image entropy:9.300186e-01 
+IM1 image mean:0.345537 
+Ground truth image entropy:0.968631 
+Ground truth image mean:0.396113 
+entropy between imt and im1 :0.826858 
+MSE between imt and im1 :0.469571 
+Average Difference between imt and im1 :0.050576 
+Maximum Difference between imt and im1 :1.000000 
+True Positive values:6867.000000 
+False Positive values: 10575.000000 
+True Negative values:19908.000000
+False Negative values:13128.000000 
+Accuracy value: 0.530429 
+F Measure values:0.366856 
+Peak Signal-to Noise Ration value: 3.282988 
+Signal-to Noise Ration value: -0.593251 
+percentage of pixels that were correctly detected (Pco): 0.343436
+The percentage of pixels that were not detected (Pnd):0.656564 
+the percentage of false alarm: (Pfa):0.528882 
+Euclidean Distance Value :33.365249 
+
+
+
+
+Butterfly.png	noise:60.0
+
+
+Original image ideal values:
+ 
+noise:60.0
+IM1 image entropy:9.270284e-01 
+IM1 image mean:0.342327 
+Ground truth image entropy:0.968631 
+Ground truth image mean:0.396113 
+entropy between imt and im1 :0.828051 
+MSE between imt and im1 :0.467946 
+Average Difference between imt and im1 :0.053786 
+Maximum Difference between imt and im1 :1.000000 
+True Positive values:6827.000000 
+False Positive values: 10453.000000 
+True Negative values:20030.000000
+False Negative values:13168.000000 
+Accuracy value: 0.532054 
+F Measure values:0.366304 
+Peak Signal-to Noise Ration value: 3.298039 
+Signal-to Noise Ration value: -0.633777 
+percentage of pixels that were correctly detected (Pco): 0.341435
+The percentage of pixels that were not detected (Pnd):0.658565 
+the percentage of false alarm: (Pfa):0.522781 
+Euclidean Distance Value :33.165284 
+
+
+
+
+Butterfly.png	noise:70.0
+
+
+Original image ideal values:
+ 
+noise:70.0
+IM1 image entropy:9.298360e-01 
+IM1 image mean:0.345339 
+Ground truth image entropy:0.968631 
+Ground truth image mean:0.396113 
+entropy between imt and im1 :0.823613 
+MSE between imt and im1 :0.465094 
+Average Difference between imt and im1 :0.050775 
+Maximum Difference between imt and im1 :1.000000 
+True Positive values:6975.000000 
+False Positive values: 10457.000000 
+True Negative values:20026.000000
+False Negative values:13020.000000 
+Accuracy value: 0.534906 
+F Measure values:0.372726 
+Peak Signal-to Noise Ration value: 3.324595 
+Signal-to Noise Ration value: -0.595742 
+percentage of pixels that were correctly detected (Pco): 0.348837
+The percentage of pixels that were not detected (Pnd):0.651163 
+the percentage of false alarm: (Pfa):0.522981 
+Euclidean Distance Value :33.904811 
+
+
+
+
+Butterfly.png	noise:80.0
+
+
+Original image ideal values:
+ 
+noise:80.0
+IM1 image entropy:9.295615e-01 
+IM1 image mean:0.345041 
+Ground truth image entropy:0.968631 
+Ground truth image mean:0.396113 
+entropy between imt and im1 :0.824427 
+MSE between imt and im1 :0.465866 
+Average Difference between imt and im1 :0.051072 
+Maximum Difference between imt and im1 :1.000000 
+True Positive values:6948.000000 
+False Positive values: 10469.000000 
+True Negative values:20014.000000
+False Negative values:13047.000000 
+Accuracy value: 0.534134 
+F Measure values:0.371432 
+Peak Signal-to Noise Ration value: 3.317387 
+Signal-to Noise Ration value: -0.599481 
+percentage of pixels that were correctly detected (Pco): 0.347487
+The percentage of pixels that were not detected (Pnd):0.652513 
+the percentage of false alarm: (Pfa):0.523581 
+Euclidean Distance Value :33.769905 
+
+
+main
+Original image ideal values:
+ 
+IM1 image entropy:6.760051e-01 
+IM1 image mean:0.178146 
+Ground truth image entropy:0.943520 
+Ground truth image mean:0.361012 
+entropy between imt and im1 :0.872331 
+MSE between imt and im1 :0.402767 
+Average Difference between imt and im1 :0.182865 
+Maximum Difference between imt and im1 :1.000000 
+True Positive values:17877.000000 
+False Positive values: 28823.000000 
+True Negative values:138684.000000
+False Negative values:76760.000000 
+Accuracy value: 0.597233 
+F Measure values:0.252970 
+Peak Signal-to Noise Ration value: 3.949459 
+Signal-to Noise Ration value: -3.067441 
+percentage of pixels that were correctly detected (Pco): 0.188901
+The percentage of pixels that were not detected (Pnd):0.811099 
+the percentage of false alarm: (Pfa):0.304564 
+Euclidean Distance Value :17.930356 
+main
+[Warning: Input should be a string, character
+array, or cell array of character arrays.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('strcat', 'C:\Program Files\MATLAB\R2021b\toolbox\matlab\strfun\strcat.m', 94)" style="font-weight:bold">strcat</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2021b\toolbox\matlab\strfun\strcat.m',94,0)">line 94</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'F:\Fuzzy C-means Thresholding\without noise with filter\main.m', 8)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('F:\Fuzzy C-means Thresholding\without noise with filter\main.m',8,0)">line 8</a>)
+] 
+[Warning: Input should be a string, character
+array, or cell array of character arrays.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('strcat', 'C:\Program Files\MATLAB\R2021b\toolbox\matlab\strfun\strcat.m', 102)" style="font-weight:bold">strcat</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2021b\toolbox\matlab\strfun\strcat.m',102,0)">line 102</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'F:\Fuzzy C-means Thresholding\without noise with filter\main.m', 8)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('F:\Fuzzy C-means Thresholding\without noise with filter\main.m',8,0)">line 8</a>)
+] 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('imread>get_full_filename', 'C:\Program Files\MATLAB\R2021b\toolbox\matlab\imagesci\imread.m', 566)" style="font-weight:bold">imread>get_full_filename</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2021b\toolbox\matlab\imagesci\imread.m',566,0)">line 566</a>)
+Cannot open file "\" for reading. You might
+not have read permission.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('imread', 'C:\Program Files\MATLAB\R2021b\toolbox\matlab\imagesci\imread.m', 371)" style="font-weight:bold">imread</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2021b\toolbox\matlab\imagesci\imread.m',371,0)">line 371</a>)
+    fullname = get_full_filename(filename);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'F:\Fuzzy C-means Thresholding\without noise with filter\main.m', 8)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('F:\Fuzzy C-means Thresholding\without noise with filter\main.m',8,0)">line 8</a>)
+I1=imread(strcat(pathname,'\',filename));
+} 
+main
+
+
+Original image ideal values:
+ 
+IM1 image entropy:5.646663e-01 
+IM1 image mean:0.132652 
+Ground truth image entropy:0.968631 
+Ground truth image mean:0.396113 
+entropy between imt and im1 :0.904253 
+MSE between imt and im1 :0.376303 
+Average Difference between imt and im1 :0.263461 
+Maximum Difference between imt and im1 :1.000000 
+True Positive values:3848.000000 
+False Positive values: 2848.000000 
+True Negative values:27635.000000
+False Negative values:16147.000000 
+Accuracy value: 0.623697 
+F Measure values:0.288337 
+Peak Signal-to Noise Ration value: 4.244628 
+Signal-to Noise Ration value: -4.751060 
+percentage of pixels that were correctly detected (Pco): 0.192448
+The percentage of pixels that were not detected (Pnd):0.807552 
+the percentage of false alarm: (Pfa):0.142436 
+Euclidean Distance Value :18.282501 
