@@ -1,5 +1,5 @@
 
-This is a edge detection algoriyhm implemented in matlab .
+This is a edge detection algorithm implemented in matlab .
 
 <H1>EDGE DETECTION USING CANNY ALGORITHM WITH FUZZY C-MEANS THRESHOLDING</H1>
  <h4>ABSTRACT:</h4>
